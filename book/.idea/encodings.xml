@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/sun/bean/aaa.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/sun/utils/WebUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/sun/dao/impl/BookDaoImplTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/sun/dao/impl/OrderDaoImplTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/sun/dao/impl/OrderItemDaoImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/sun/dao/impl/UserDaoImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/sun/service/impl/UserServiceImplTest.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
